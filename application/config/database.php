@@ -1,7 +1,7 @@
 <?php
 
 defined('BASEPATH') OR exit('No direct script access allowed');
-include 'database.php';
+include FCPATH . 'database.php';
 /*
   | -------------------------------------------------------------------
   | DATABASE CONNECTIVITY SETTINGS

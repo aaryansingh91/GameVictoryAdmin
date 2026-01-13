@@ -19,6 +19,8 @@ class Home_game extends CI_Controller {
         $this->load->library('image'); 
 
         $this->load->model($this->path_to_view_admin . 'Home_game_model', 'home_game');
+        $this->game_image = 'assets/uploads/home_game/';
+        $this->game_logo_image = 'assets/uploads/home_game_logo/';
     }
 
     function index() {
@@ -56,13 +58,13 @@ class Home_game extends CI_Controller {
             if (($this->system->demo_user == 1 && min($this->input->post('ids')) <= 23) || !$this->functions->check_permission('game_delete')) {                    
                 echo $this->lang->line('text_err_delete_game');                    
             } else {
-                $this->game->multiDelete();                       
+                $this->home_game->multiDelete();                       
             }           
         } elseif ($this->input->post('action') == "change_publish") {     
             if (($this->system->demo_user == 1 && min($this->input->post('ids')) <= 23) || !$this->functions->check_permission('game')) {                    
                 echo $this->lang->line('text_err_status');                    
             } else {
-                $this->game->changeMultiPublishStatus();            
+                $this->home_game->changeMultiPublishStatus();            
             }       
         }
     }
@@ -198,15 +200,15 @@ class Home_game extends CI_Controller {
             $this->form_validation->set_rules('game_rules', 'lang:text_game_rules', 'required', array('required' => $this->lang->line('err_game_rules_req')));
 
             if ($this->form_validation->run() == FALSE) {
-                $this->load->view($this->path_to_view_admin . 'game_addedit', $data);
+                $this->load->view($this->path_to_view_admin . 'home_game_addedit', $data);
             } else {
-                if ($result = $this->game->insert()) {
+                if ($result = $this->home_game->insert()) {
                     $this->session->set_flashdata('notification', $this->lang->line('text_succ_add_game'));
-                    redirect($this->path_to_view_admin . 'game/');
+                    redirect($this->path_to_view_admin . 'home_game/');
                 }
             }
         } else {
-            $this->load->view($this->path_to_view_admin . 'game_addedit', $data);
+            $this->load->view($this->path_to_view_admin . 'home_game_addedit', $data);
         }
     }
 
@@ -241,22 +243,22 @@ class Home_game extends CI_Controller {
             $this->form_validation->set_rules('game_rules', 'lang:text_game_rules', 'required', array('required' => $this->lang->line('err_game_rules_req')));
 
             if ($this->form_validation->run() == FALSE) {
-                $this->load->view($this->path_to_view_admin . 'game_addedit', $data);
+                $this->load->view($this->path_to_view_admin . 'home_game_addedit', $data);
             } else {
-                if ($result = $this->game->update()) {
+                if ($result = $this->home_game->update()) {
                     $this->session->set_flashdata('notification', $this->lang->line('text_succ_edit_game'));
-                    redirect($this->path_to_view_admin . 'game/');
+                    redirect($this->path_to_view_admin . 'home_game/');
                 }
             }
         } else {
-            $data['game_detail'] = $this->game->getgameById($game_id);
-            $this->load->view($this->path_to_view_admin . 'game_addedit', $data);
+            $data['game_detail'] = $this->home_game->getgameById($game_id);
+            $this->load->view($this->path_to_view_admin . 'home_game_addedit', $data);
         }
     }
 
     public function getGameRules() {
         $game_id = $this->uri->segment('4');
-        $data['game_rules'] = $this->game->getgameById($game_id)['game_rules'];
+        $data['game_rules'] = $this->home_game->getgameById($game_id)['game_rules'];
         echo json_encode($data);
     }
 

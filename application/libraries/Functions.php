@@ -187,7 +187,7 @@ class Functions {
 
     }
     
-    public function sendMessageFCM($title, $message, $image_url = '', $registration_ids) {
+    public function sendMessageFCM($title, $message, $image_url = '', $registration_ids = null) {
         // ini_set('display_errors', 1);
         // error_reporting(E_ALL);
         if ($this->obj->system->one_signal_notification == '1' || $this->obj->system->one_signal_notification == 1) {

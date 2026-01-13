@@ -4800,3 +4800,2060 @@ INFO - 2026-01-13 15:49:12 --> File loaded: /home/gamevict/api.gamevictory.in/ap
 INFO - 2026-01-13 15:49:12 --> File loaded: /home/gamevict/api.gamevictory.in/application/views/themes/front/layout.php
 INFO - 2026-01-13 15:49:12 --> Final output sent to browser
 DEBUG - 2026-01-13 15:49:12 --> Total execution time: 0.0159
+INFO - 2026-01-13 16:07:38 --> Config Class Initialized
+INFO - 2026-01-13 16:07:38 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:07:38 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:07:38 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:07:38 --> URI Class Initialized
+DEBUG - 2026-01-13 16:07:38 --> No URI present. Default controller set.
+INFO - 2026-01-13 16:07:38 --> Router Class Initialized
+INFO - 2026-01-13 16:07:38 --> Output Class Initialized
+INFO - 2026-01-13 16:07:38 --> Security Class Initialized
+DEBUG - 2026-01-13 16:07:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:07:38 --> Input Class Initialized
+INFO - 2026-01-13 16:07:38 --> Language Class Initialized
+INFO - 2026-01-13 16:07:38 --> Loader Class Initialized
+INFO - 2026-01-13 16:07:38 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:09:27 --> Config Class Initialized
+INFO - 2026-01-13 16:09:27 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:09:27 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:09:27 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:09:27 --> URI Class Initialized
+DEBUG - 2026-01-13 16:09:27 --> No URI present. Default controller set.
+INFO - 2026-01-13 16:09:27 --> Router Class Initialized
+INFO - 2026-01-13 16:09:27 --> Output Class Initialized
+INFO - 2026-01-13 16:09:27 --> Security Class Initialized
+DEBUG - 2026-01-13 16:09:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:09:27 --> Input Class Initialized
+INFO - 2026-01-13 16:09:27 --> Language Class Initialized
+INFO - 2026-01-13 16:09:27 --> Loader Class Initialized
+INFO - 2026-01-13 16:09:27 --> Helper loaded: url_helper
+ERROR - 2026-01-13 16:09:27 --> Severity: Warning --> Undefined variable $hostname E:\xampp\htdocs\GameVictoryAdmin\application\config\database.php 80
+ERROR - 2026-01-13 16:09:27 --> Severity: Warning --> Undefined variable $username E:\xampp\htdocs\GameVictoryAdmin\application\config\database.php 81
+ERROR - 2026-01-13 16:09:27 --> Severity: Warning --> Undefined variable $password E:\xampp\htdocs\GameVictoryAdmin\application\config\database.php 82
+ERROR - 2026-01-13 16:09:27 --> Severity: Warning --> Undefined variable $database E:\xampp\htdocs\GameVictoryAdmin\application\config\database.php 83
+INFO - 2026-01-13 16:09:27 --> Database Driver Class Initialized
+ERROR - 2026-01-13 16:09:27 --> Severity: Warning --> Trying to access array offset on value of type null E:\xampp\htdocs\GameVictoryAdmin\system\database\drivers\mysqli\mysqli_driver.php 120
+ERROR - 2026-01-13 16:09:27 --> Severity: error --> Exception: Access denied for user ''@'localhost' (using password: NO) E:\xampp\htdocs\GameVictoryAdmin\system\database\drivers\mysqli\mysqli_driver.php 201
+INFO - 2026-01-13 16:10:11 --> Config Class Initialized
+INFO - 2026-01-13 16:10:11 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:10:11 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:10:11 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:10:11 --> URI Class Initialized
+DEBUG - 2026-01-13 16:10:11 --> No URI present. Default controller set.
+INFO - 2026-01-13 16:10:11 --> Router Class Initialized
+INFO - 2026-01-13 16:10:11 --> Output Class Initialized
+INFO - 2026-01-13 16:10:11 --> Security Class Initialized
+DEBUG - 2026-01-13 16:10:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:10:11 --> Input Class Initialized
+INFO - 2026-01-13 16:10:11 --> Language Class Initialized
+INFO - 2026-01-13 16:10:11 --> Loader Class Initialized
+INFO - 2026-01-13 16:10:11 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:10:11 --> Database Driver Class Initialized
+ERROR - 2026-01-13 16:10:11 --> Severity: error --> Exception: Access denied for user 'gameaura_test'@'localhost' (using password: YES) E:\xampp\htdocs\GameVictoryAdmin\system\database\drivers\mysqli\mysqli_driver.php 201
+INFO - 2026-01-13 16:10:47 --> Config Class Initialized
+INFO - 2026-01-13 16:10:47 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:10:47 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:10:47 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:10:47 --> URI Class Initialized
+DEBUG - 2026-01-13 16:10:47 --> No URI present. Default controller set.
+INFO - 2026-01-13 16:10:47 --> Router Class Initialized
+INFO - 2026-01-13 16:10:47 --> Output Class Initialized
+INFO - 2026-01-13 16:10:47 --> Security Class Initialized
+DEBUG - 2026-01-13 16:10:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:10:47 --> Input Class Initialized
+INFO - 2026-01-13 16:10:47 --> Language Class Initialized
+INFO - 2026-01-13 16:10:47 --> Loader Class Initialized
+INFO - 2026-01-13 16:10:47 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:10:47 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:10:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:10:47 --> Pagination Class Initialized
+ERROR - 2026-01-13 16:10:47 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2026-01-13 16:10:47 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 293
+ERROR - 2026-01-13 16:10:47 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 167
+ERROR - 2026-01-13 16:10:47 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 236
+ERROR - 2026-01-13 16:10:47 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 316
+ERROR - 2026-01-13 16:10:47 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 357
+INFO - 2026-01-13 16:10:47 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:10:47 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:10:47 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:10:47 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:10:47 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:10:47 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:40:48 --> Controller Class Initialized
+INFO - 2026-01-13 20:40:48 --> Model Class Initialized
+INFO - 2026-01-13 20:40:48 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:40:49 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:40:49 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:40:49 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 20:40:49 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\themes/front/header.php
+INFO - 2026-01-13 20:40:49 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\themes/front/header_body.php
+INFO - 2026-01-13 20:40:49 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\themes/front/home.php
+INFO - 2026-01-13 20:40:49 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\themes/front/footer_body.php
+INFO - 2026-01-13 20:40:49 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\themes/front/footer.php
+INFO - 2026-01-13 20:40:49 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\themes/front/layout.php
+INFO - 2026-01-13 20:40:49 --> Final output sent to browser
+DEBUG - 2026-01-13 20:40:49 --> Total execution time: 2.4175
+INFO - 2026-01-13 16:11:01 --> Config Class Initialized
+INFO - 2026-01-13 16:11:01 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:11:01 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:11:01 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:11:01 --> URI Class Initialized
+INFO - 2026-01-13 16:11:01 --> Router Class Initialized
+INFO - 2026-01-13 16:11:01 --> Output Class Initialized
+INFO - 2026-01-13 16:11:01 --> Security Class Initialized
+DEBUG - 2026-01-13 16:11:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:11:01 --> Input Class Initialized
+INFO - 2026-01-13 16:11:01 --> Language Class Initialized
+INFO - 2026-01-13 16:11:01 --> Loader Class Initialized
+INFO - 2026-01-13 16:11:01 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:11:02 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:11:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:11:02 --> Pagination Class Initialized
+ERROR - 2026-01-13 16:11:02 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2026-01-13 16:11:02 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 293
+ERROR - 2026-01-13 16:11:02 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 167
+ERROR - 2026-01-13 16:11:02 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 236
+ERROR - 2026-01-13 16:11:02 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 316
+ERROR - 2026-01-13 16:11:02 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 357
+INFO - 2026-01-13 16:11:02 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:11:02 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:11:02 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:11:02 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:11:02 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:11:02 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:41:02 --> Controller Class Initialized
+INFO - 2026-01-13 20:41:02 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:41:02 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:41:02 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:41:02 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 20:41:02 --> Could not find the language line "text_email_address"
+INFO - 2026-01-13 20:41:02 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/login.php
+INFO - 2026-01-13 20:41:02 --> Final output sent to browser
+DEBUG - 2026-01-13 20:41:02 --> Total execution time: 0.2356
+INFO - 2026-01-13 16:12:12 --> Config Class Initialized
+INFO - 2026-01-13 16:12:12 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:12:12 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:12:12 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:12:12 --> URI Class Initialized
+INFO - 2026-01-13 16:12:12 --> Router Class Initialized
+INFO - 2026-01-13 16:12:12 --> Output Class Initialized
+INFO - 2026-01-13 16:12:12 --> Security Class Initialized
+DEBUG - 2026-01-13 16:12:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:12:12 --> Input Class Initialized
+INFO - 2026-01-13 16:12:12 --> Language Class Initialized
+INFO - 2026-01-13 16:12:12 --> Loader Class Initialized
+INFO - 2026-01-13 16:12:12 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:12:12 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:12:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:12:12 --> Pagination Class Initialized
+ERROR - 2026-01-13 16:12:12 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2026-01-13 16:12:12 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 293
+ERROR - 2026-01-13 16:12:12 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 167
+ERROR - 2026-01-13 16:12:12 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 236
+ERROR - 2026-01-13 16:12:12 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 316
+ERROR - 2026-01-13 16:12:12 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 357
+INFO - 2026-01-13 16:12:12 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:12:12 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:12:12 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:12:12 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:12:12 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:12:12 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:42:12 --> Controller Class Initialized
+INFO - 2026-01-13 20:42:12 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:42:12 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:42:12 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:42:12 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 20:42:12 --> Could not find the language line "text_email_address"
+INFO - 2026-01-13 20:42:12 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/login.php
+INFO - 2026-01-13 20:42:12 --> Final output sent to browser
+DEBUG - 2026-01-13 20:42:12 --> Total execution time: 0.0666
+INFO - 2026-01-13 16:12:37 --> Config Class Initialized
+INFO - 2026-01-13 16:12:37 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:12:37 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:12:37 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:12:37 --> URI Class Initialized
+INFO - 2026-01-13 16:12:37 --> Router Class Initialized
+INFO - 2026-01-13 16:12:37 --> Output Class Initialized
+INFO - 2026-01-13 16:12:37 --> Security Class Initialized
+DEBUG - 2026-01-13 16:12:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:12:37 --> Input Class Initialized
+INFO - 2026-01-13 16:12:37 --> Language Class Initialized
+INFO - 2026-01-13 16:12:37 --> Loader Class Initialized
+INFO - 2026-01-13 16:12:37 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:12:37 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:12:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:12:37 --> Pagination Class Initialized
+ERROR - 2026-01-13 16:12:37 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2026-01-13 16:12:37 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 293
+ERROR - 2026-01-13 16:12:37 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 167
+ERROR - 2026-01-13 16:12:37 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 236
+ERROR - 2026-01-13 16:12:37 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 316
+ERROR - 2026-01-13 16:12:37 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 357
+INFO - 2026-01-13 16:12:37 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:12:37 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:12:37 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:12:37 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:12:37 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:12:37 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:42:37 --> Controller Class Initialized
+INFO - 2026-01-13 20:42:37 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:42:37 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:42:37 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:42:37 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 20:42:37 --> Could not find the language line "text_email_address"
+INFO - 2026-01-13 20:42:37 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/login.php
+INFO - 2026-01-13 20:42:37 --> Final output sent to browser
+DEBUG - 2026-01-13 20:42:37 --> Total execution time: 0.0634
+INFO - 2026-01-13 16:12:42 --> Config Class Initialized
+INFO - 2026-01-13 16:12:42 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:12:42 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:12:42 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:12:42 --> URI Class Initialized
+INFO - 2026-01-13 16:12:42 --> Router Class Initialized
+INFO - 2026-01-13 16:12:42 --> Output Class Initialized
+INFO - 2026-01-13 16:12:42 --> Security Class Initialized
+DEBUG - 2026-01-13 16:12:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:12:42 --> Input Class Initialized
+INFO - 2026-01-13 16:12:42 --> Language Class Initialized
+INFO - 2026-01-13 16:12:42 --> Loader Class Initialized
+INFO - 2026-01-13 16:12:42 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:12:42 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:12:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:12:42 --> Pagination Class Initialized
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 293
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 167
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 236
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 316
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 357
+INFO - 2026-01-13 16:12:42 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:12:42 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:12:42 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:12:42 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:12:42 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:42:42 --> Controller Class Initialized
+INFO - 2026-01-13 20:42:42 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:42:42 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:42:42 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:42:42 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 16:12:42 --> Config Class Initialized
+INFO - 2026-01-13 16:12:42 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:12:42 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:12:42 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:12:42 --> URI Class Initialized
+INFO - 2026-01-13 16:12:42 --> Router Class Initialized
+INFO - 2026-01-13 16:12:42 --> Output Class Initialized
+INFO - 2026-01-13 16:12:42 --> Security Class Initialized
+DEBUG - 2026-01-13 16:12:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:12:42 --> Input Class Initialized
+INFO - 2026-01-13 16:12:42 --> Language Class Initialized
+INFO - 2026-01-13 16:12:42 --> Loader Class Initialized
+INFO - 2026-01-13 16:12:42 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:12:42 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:12:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:12:42 --> Pagination Class Initialized
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 293
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 167
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 236
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 316
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice E:\xampp\htdocs\GameVictoryAdmin\system\libraries\Session\drivers\Session_files_driver.php 357
+INFO - 2026-01-13 16:12:42 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:12:42 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:12:42 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:12:42 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:12:42 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:12:42 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:42:42 --> Controller Class Initialized
+INFO - 2026-01-13 20:42:42 --> Model Class Initialized
+INFO - 2026-01-13 20:42:42 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:42:42 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:42:42 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:42:42 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 20:57:42 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 20:57:42 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 20:57:43 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 20:57:43 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 20:57:43 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 20:57:43 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 20:57:43 --> Final output sent to browser
+DEBUG - 2026-01-13 20:57:43 --> Total execution time: 1.4257
+INFO - 2026-01-13 16:23:18 --> Config Class Initialized
+INFO - 2026-01-13 16:23:18 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:23:18 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:23:18 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:23:18 --> URI Class Initialized
+INFO - 2026-01-13 16:23:18 --> Router Class Initialized
+INFO - 2026-01-13 16:23:18 --> Output Class Initialized
+INFO - 2026-01-13 16:23:18 --> Security Class Initialized
+DEBUG - 2026-01-13 16:23:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:23:18 --> Input Class Initialized
+INFO - 2026-01-13 16:23:18 --> Language Class Initialized
+INFO - 2026-01-13 16:23:18 --> Loader Class Initialized
+INFO - 2026-01-13 16:23:18 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:23:18 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:23:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:23:18 --> Pagination Class Initialized
+INFO - 2026-01-13 16:23:18 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:23:18 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:23:18 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:23:18 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:23:18 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:23:18 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:53:18 --> Controller Class Initialized
+INFO - 2026-01-13 20:53:18 --> Model Class Initialized
+INFO - 2026-01-13 20:53:18 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:53:18 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:53:18 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:53:18 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:08:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:08:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:08:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:08:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:08:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:08:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:08:18 --> Final output sent to browser
+DEBUG - 2026-01-13 21:08:18 --> Total execution time: 0.0698
+INFO - 2026-01-13 16:23:22 --> Config Class Initialized
+INFO - 2026-01-13 16:23:22 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:23:22 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:23:22 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:23:22 --> URI Class Initialized
+INFO - 2026-01-13 16:23:22 --> Router Class Initialized
+INFO - 2026-01-13 16:23:22 --> Output Class Initialized
+INFO - 2026-01-13 16:23:22 --> Security Class Initialized
+DEBUG - 2026-01-13 16:23:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:23:22 --> Input Class Initialized
+INFO - 2026-01-13 16:23:22 --> Language Class Initialized
+INFO - 2026-01-13 16:23:22 --> Loader Class Initialized
+INFO - 2026-01-13 16:23:22 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:23:22 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:23:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:23:22 --> Pagination Class Initialized
+INFO - 2026-01-13 16:23:22 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:23:22 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:23:22 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:23:22 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:23:22 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:23:22 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:53:22 --> Controller Class Initialized
+INFO - 2026-01-13 20:53:22 --> Model Class Initialized
+INFO - 2026-01-13 20:53:22 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:53:22 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:53:22 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:53:22 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:08:22 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:08:22 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:08:22 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:08:22 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:08:22 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:08:22 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:08:22 --> Final output sent to browser
+DEBUG - 2026-01-13 21:08:22 --> Total execution time: 0.0853
+INFO - 2026-01-13 16:26:33 --> Config Class Initialized
+INFO - 2026-01-13 16:26:33 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:26:33 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:26:33 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:26:33 --> URI Class Initialized
+INFO - 2026-01-13 16:26:33 --> Router Class Initialized
+INFO - 2026-01-13 16:26:33 --> Output Class Initialized
+INFO - 2026-01-13 16:26:33 --> Security Class Initialized
+DEBUG - 2026-01-13 16:26:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:26:33 --> Input Class Initialized
+INFO - 2026-01-13 16:26:33 --> Language Class Initialized
+INFO - 2026-01-13 16:26:33 --> Loader Class Initialized
+INFO - 2026-01-13 16:26:33 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:26:33 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:26:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:26:33 --> Pagination Class Initialized
+INFO - 2026-01-13 16:26:33 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:26:33 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:26:33 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:26:33 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:26:33 --> Form Validation Class Initialized
+ERROR - 2026-01-13 16:26:33 --> Severity: 8192 --> Optional parameter $image_url declared before required parameter $registration_ids is implicitly treated as a required parameter E:\xampp\htdocs\GameVictoryAdmin\application\libraries\Functions.php 190
+INFO - 2026-01-13 20:56:33 --> Controller Class Initialized
+INFO - 2026-01-13 20:56:33 --> Model Class Initialized
+INFO - 2026-01-13 20:56:33 --> Helper loaded: language_helper
+INFO - 2026-01-13 20:56:33 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 20:56:33 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 20:56:33 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:11:33 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:11:33 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:11:33 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:11:33 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:11:33 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:11:33 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:11:33 --> Final output sent to browser
+DEBUG - 2026-01-13 21:11:33 --> Total execution time: 0.0735
+INFO - 2026-01-13 16:32:10 --> Config Class Initialized
+INFO - 2026-01-13 16:32:10 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:32:10 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:32:10 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:32:10 --> URI Class Initialized
+INFO - 2026-01-13 16:32:10 --> Router Class Initialized
+INFO - 2026-01-13 16:32:10 --> Output Class Initialized
+INFO - 2026-01-13 16:32:10 --> Security Class Initialized
+DEBUG - 2026-01-13 16:32:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:32:10 --> Input Class Initialized
+INFO - 2026-01-13 16:32:10 --> Language Class Initialized
+INFO - 2026-01-13 16:32:10 --> Loader Class Initialized
+INFO - 2026-01-13 16:32:10 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:32:10 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:32:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:32:10 --> Pagination Class Initialized
+INFO - 2026-01-13 16:32:10 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:32:10 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:10 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:10 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:32:10 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:02:10 --> Controller Class Initialized
+INFO - 2026-01-13 21:02:10 --> Model Class Initialized
+INFO - 2026-01-13 21:02:10 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:02:10 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:02:10 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:02:10 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:17:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:17:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:17:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:17:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:17:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:17:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:17:10 --> Final output sent to browser
+DEBUG - 2026-01-13 21:17:10 --> Total execution time: 0.0695
+INFO - 2026-01-13 16:32:14 --> Config Class Initialized
+INFO - 2026-01-13 16:32:14 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:32:14 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:32:14 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:32:14 --> URI Class Initialized
+INFO - 2026-01-13 16:32:14 --> Router Class Initialized
+INFO - 2026-01-13 16:32:14 --> Output Class Initialized
+INFO - 2026-01-13 16:32:14 --> Security Class Initialized
+DEBUG - 2026-01-13 16:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:32:14 --> Input Class Initialized
+INFO - 2026-01-13 16:32:14 --> Language Class Initialized
+INFO - 2026-01-13 16:32:14 --> Loader Class Initialized
+INFO - 2026-01-13 16:32:14 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:32:14 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:32:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:32:14 --> Pagination Class Initialized
+INFO - 2026-01-13 16:32:14 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:32:14 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:14 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:14 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:32:14 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:02:14 --> Controller Class Initialized
+INFO - 2026-01-13 21:02:14 --> Upload Class Initialized
+INFO - 2026-01-13 21:02:14 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:02:14 --> Image Lib Class Initialized
+INFO - 2026-01-13 21:02:14 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:02:14 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:02:14 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:02:14 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:02:14 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:02:14 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:02:14 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:02:14 --> Could not find the language line "text_send_to"
+ERROR - 2026-01-13 21:02:14 --> Severity: Warning --> Undefined variable $send_to E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020\custom_notification_addedit.php 50
+ERROR - 2026-01-13 21:02:14 --> Severity: Warning --> Undefined variable $send_to E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020\custom_notification_addedit.php 64
+INFO - 2026-01-13 21:02:14 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:02:14 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:02:14 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/custom_notification_addedit.php
+INFO - 2026-01-13 21:02:14 --> Final output sent to browser
+DEBUG - 2026-01-13 21:02:14 --> Total execution time: 0.3797
+INFO - 2026-01-13 16:32:27 --> Config Class Initialized
+INFO - 2026-01-13 16:32:27 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:32:27 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:32:27 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:32:27 --> URI Class Initialized
+INFO - 2026-01-13 16:32:27 --> Router Class Initialized
+INFO - 2026-01-13 16:32:27 --> Output Class Initialized
+INFO - 2026-01-13 16:32:27 --> Security Class Initialized
+DEBUG - 2026-01-13 16:32:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:32:27 --> Input Class Initialized
+INFO - 2026-01-13 16:32:27 --> Language Class Initialized
+INFO - 2026-01-13 16:32:27 --> Loader Class Initialized
+INFO - 2026-01-13 16:32:27 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:32:27 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:32:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:32:27 --> Pagination Class Initialized
+INFO - 2026-01-13 16:32:27 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:32:27 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:27 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:27 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:32:27 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:02:27 --> Controller Class Initialized
+INFO - 2026-01-13 21:02:27 --> Model Class Initialized
+INFO - 2026-01-13 21:02:27 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:02:27 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:02:27 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:02:27 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:17:27 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:17:27 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:17:27 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:17:27 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:17:27 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:17:27 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:17:27 --> Final output sent to browser
+DEBUG - 2026-01-13 21:17:27 --> Total execution time: 0.0729
+INFO - 2026-01-13 16:32:28 --> Config Class Initialized
+INFO - 2026-01-13 16:32:28 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:32:28 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:32:28 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:32:28 --> URI Class Initialized
+INFO - 2026-01-13 16:32:28 --> Router Class Initialized
+INFO - 2026-01-13 16:32:28 --> Output Class Initialized
+INFO - 2026-01-13 16:32:28 --> Security Class Initialized
+DEBUG - 2026-01-13 16:32:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:32:28 --> Input Class Initialized
+INFO - 2026-01-13 16:32:28 --> Language Class Initialized
+INFO - 2026-01-13 16:32:28 --> Loader Class Initialized
+INFO - 2026-01-13 16:32:28 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:32:28 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:32:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:32:28 --> Pagination Class Initialized
+INFO - 2026-01-13 16:32:28 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:32:28 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:28 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:28 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:32:28 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:02:28 --> Controller Class Initialized
+INFO - 2026-01-13 21:02:28 --> Model Class Initialized
+INFO - 2026-01-13 21:02:28 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:02:28 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:02:28 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:02:28 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:17:28 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:17:28 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:17:28 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:17:28 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:17:28 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:17:28 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:17:28 --> Final output sent to browser
+DEBUG - 2026-01-13 21:17:28 --> Total execution time: 0.0804
+INFO - 2026-01-13 16:32:30 --> Config Class Initialized
+INFO - 2026-01-13 16:32:30 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:32:30 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:32:30 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:32:30 --> URI Class Initialized
+INFO - 2026-01-13 16:32:30 --> Router Class Initialized
+INFO - 2026-01-13 16:32:30 --> Output Class Initialized
+INFO - 2026-01-13 16:32:30 --> Security Class Initialized
+DEBUG - 2026-01-13 16:32:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:32:30 --> Input Class Initialized
+INFO - 2026-01-13 16:32:30 --> Language Class Initialized
+INFO - 2026-01-13 16:32:30 --> Loader Class Initialized
+INFO - 2026-01-13 16:32:30 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:32:30 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:32:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:32:30 --> Pagination Class Initialized
+INFO - 2026-01-13 16:32:30 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:32:30 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:30 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:32:30 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:32:30 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:02:30 --> Controller Class Initialized
+INFO - 2026-01-13 21:02:30 --> Upload Class Initialized
+INFO - 2026-01-13 21:02:30 --> Helper loaded: file_helper
+INFO - 2026-01-13 16:35:09 --> Config Class Initialized
+INFO - 2026-01-13 16:35:09 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:35:09 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:35:09 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:35:09 --> URI Class Initialized
+INFO - 2026-01-13 16:35:09 --> Router Class Initialized
+INFO - 2026-01-13 16:35:09 --> Output Class Initialized
+INFO - 2026-01-13 16:35:09 --> Security Class Initialized
+DEBUG - 2026-01-13 16:35:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:35:09 --> Input Class Initialized
+INFO - 2026-01-13 16:35:09 --> Language Class Initialized
+INFO - 2026-01-13 16:35:09 --> Loader Class Initialized
+INFO - 2026-01-13 16:35:09 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:35:09 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:35:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:35:09 --> Pagination Class Initialized
+INFO - 2026-01-13 16:35:09 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:35:09 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:35:09 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:35:09 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:35:09 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:05:09 --> Controller Class Initialized
+INFO - 2026-01-13 21:05:09 --> Upload Class Initialized
+INFO - 2026-01-13 21:05:09 --> Helper loaded: file_helper
+INFO - 2026-01-13 16:35:11 --> Config Class Initialized
+INFO - 2026-01-13 16:35:11 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:35:11 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:35:11 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:35:11 --> URI Class Initialized
+INFO - 2026-01-13 16:35:11 --> Router Class Initialized
+INFO - 2026-01-13 16:35:11 --> Output Class Initialized
+INFO - 2026-01-13 16:35:11 --> Security Class Initialized
+DEBUG - 2026-01-13 16:35:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:35:11 --> Input Class Initialized
+INFO - 2026-01-13 16:35:11 --> Language Class Initialized
+INFO - 2026-01-13 16:35:11 --> Loader Class Initialized
+INFO - 2026-01-13 16:35:11 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:35:11 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:35:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:35:11 --> Pagination Class Initialized
+INFO - 2026-01-13 16:35:11 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:35:11 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:35:11 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:35:11 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:35:11 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:05:11 --> Controller Class Initialized
+INFO - 2026-01-13 21:05:11 --> Model Class Initialized
+INFO - 2026-01-13 21:05:11 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:05:11 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:05:11 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:05:11 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:20:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:20:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:20:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:20:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:20:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:20:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:20:11 --> Final output sent to browser
+DEBUG - 2026-01-13 21:20:11 --> Total execution time: 0.0710
+INFO - 2026-01-13 16:35:13 --> Config Class Initialized
+INFO - 2026-01-13 16:35:13 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:35:13 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:35:13 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:35:13 --> URI Class Initialized
+INFO - 2026-01-13 16:35:13 --> Router Class Initialized
+INFO - 2026-01-13 16:35:13 --> Output Class Initialized
+INFO - 2026-01-13 16:35:13 --> Security Class Initialized
+DEBUG - 2026-01-13 16:35:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:35:13 --> Input Class Initialized
+INFO - 2026-01-13 16:35:13 --> Language Class Initialized
+INFO - 2026-01-13 16:35:13 --> Loader Class Initialized
+INFO - 2026-01-13 16:35:13 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:35:13 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:35:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:35:13 --> Pagination Class Initialized
+INFO - 2026-01-13 16:35:13 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:35:13 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:35:13 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:35:13 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:35:13 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:05:13 --> Controller Class Initialized
+INFO - 2026-01-13 21:05:13 --> Upload Class Initialized
+INFO - 2026-01-13 21:05:13 --> Helper loaded: file_helper
+INFO - 2026-01-13 16:36:19 --> Config Class Initialized
+INFO - 2026-01-13 16:36:19 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:36:19 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:36:19 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:36:19 --> URI Class Initialized
+INFO - 2026-01-13 16:36:19 --> Router Class Initialized
+INFO - 2026-01-13 16:36:19 --> Output Class Initialized
+INFO - 2026-01-13 16:36:19 --> Security Class Initialized
+DEBUG - 2026-01-13 16:36:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:36:19 --> Input Class Initialized
+INFO - 2026-01-13 16:36:19 --> Language Class Initialized
+INFO - 2026-01-13 16:36:19 --> Loader Class Initialized
+INFO - 2026-01-13 16:36:19 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:36:19 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:36:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:36:19 --> Pagination Class Initialized
+INFO - 2026-01-13 16:36:19 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:36:19 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:19 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:19 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:36:19 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:06:19 --> Controller Class Initialized
+INFO - 2026-01-13 21:06:19 --> Model Class Initialized
+INFO - 2026-01-13 21:06:19 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:06:19 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:06:19 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:06:19 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:21:19 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:21:19 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:21:19 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:21:19 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:21:19 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:21:19 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:21:19 --> Final output sent to browser
+DEBUG - 2026-01-13 21:21:19 --> Total execution time: 0.0715
+INFO - 2026-01-13 16:36:21 --> Config Class Initialized
+INFO - 2026-01-13 16:36:21 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:36:21 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:36:21 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:36:21 --> URI Class Initialized
+INFO - 2026-01-13 16:36:21 --> Router Class Initialized
+INFO - 2026-01-13 16:36:21 --> Output Class Initialized
+INFO - 2026-01-13 16:36:21 --> Security Class Initialized
+DEBUG - 2026-01-13 16:36:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:36:21 --> Input Class Initialized
+INFO - 2026-01-13 16:36:21 --> Language Class Initialized
+INFO - 2026-01-13 16:36:21 --> Loader Class Initialized
+INFO - 2026-01-13 16:36:21 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:36:21 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:36:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:36:21 --> Pagination Class Initialized
+INFO - 2026-01-13 16:36:21 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:36:21 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:21 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:21 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:36:21 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:06:21 --> Controller Class Initialized
+INFO - 2026-01-13 21:06:21 --> Upload Class Initialized
+INFO - 2026-01-13 21:06:21 --> Helper loaded: file_helper
+INFO - 2026-01-13 16:36:31 --> Config Class Initialized
+INFO - 2026-01-13 16:36:31 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:36:31 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:36:31 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:36:31 --> URI Class Initialized
+INFO - 2026-01-13 16:36:31 --> Router Class Initialized
+INFO - 2026-01-13 16:36:31 --> Output Class Initialized
+INFO - 2026-01-13 16:36:31 --> Security Class Initialized
+DEBUG - 2026-01-13 16:36:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:36:31 --> Input Class Initialized
+INFO - 2026-01-13 16:36:31 --> Language Class Initialized
+INFO - 2026-01-13 16:36:31 --> Loader Class Initialized
+INFO - 2026-01-13 16:36:31 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:36:31 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:36:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:36:31 --> Pagination Class Initialized
+INFO - 2026-01-13 16:36:31 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:36:31 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:31 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:31 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:36:31 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:06:31 --> Controller Class Initialized
+INFO - 2026-01-13 21:06:31 --> Upload Class Initialized
+INFO - 2026-01-13 21:06:31 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:06:31 --> Model Class Initialized
+INFO - 2026-01-13 21:06:31 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:06:31 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:06:31 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:06:31 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:06:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:06:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:06:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:06:31 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:06:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:06:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:06:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:06:31 --> Final output sent to browser
+DEBUG - 2026-01-13 21:06:31 --> Total execution time: 0.2817
+INFO - 2026-01-13 16:36:34 --> Config Class Initialized
+INFO - 2026-01-13 16:36:34 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:36:34 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:36:34 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:36:34 --> URI Class Initialized
+INFO - 2026-01-13 16:36:34 --> Router Class Initialized
+INFO - 2026-01-13 16:36:34 --> Output Class Initialized
+INFO - 2026-01-13 16:36:34 --> Security Class Initialized
+DEBUG - 2026-01-13 16:36:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:36:34 --> Input Class Initialized
+INFO - 2026-01-13 16:36:34 --> Language Class Initialized
+INFO - 2026-01-13 16:36:34 --> Loader Class Initialized
+INFO - 2026-01-13 16:36:34 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:36:34 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:36:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:36:34 --> Pagination Class Initialized
+INFO - 2026-01-13 16:36:34 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:36:34 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:34 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:34 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:36:34 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:06:34 --> Controller Class Initialized
+INFO - 2026-01-13 21:06:34 --> Upload Class Initialized
+INFO - 2026-01-13 21:06:34 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:06:34 --> Model Class Initialized
+INFO - 2026-01-13 21:06:34 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:06:34 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:06:34 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:06:34 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:06:34 --> Severity: Warning --> Undefined variable $game_id E:\xampp\htdocs\GameVictoryAdmin\application\models\admin2020\Game_model.php 27
+INFO - 2026-01-13 21:06:34 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:06:34 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:06:34 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:06:34 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:06:34 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:06:34 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage_datatable_js.php
+INFO - 2026-01-13 21:06:34 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:06:34 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage.php
+INFO - 2026-01-13 21:06:34 --> Final output sent to browser
+DEBUG - 2026-01-13 21:06:34 --> Total execution time: 0.2833
+INFO - 2026-01-13 16:36:34 --> Config Class Initialized
+INFO - 2026-01-13 16:36:34 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:36:34 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:36:34 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:36:34 --> URI Class Initialized
+INFO - 2026-01-13 16:36:34 --> Router Class Initialized
+INFO - 2026-01-13 16:36:34 --> Output Class Initialized
+INFO - 2026-01-13 16:36:34 --> Security Class Initialized
+DEBUG - 2026-01-13 16:36:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:36:34 --> Input Class Initialized
+INFO - 2026-01-13 16:36:34 --> Language Class Initialized
+INFO - 2026-01-13 16:36:34 --> Loader Class Initialized
+INFO - 2026-01-13 16:36:34 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:36:34 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:36:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:36:34 --> Pagination Class Initialized
+INFO - 2026-01-13 16:36:34 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:36:34 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:34 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:34 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:36:34 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:06:34 --> Controller Class Initialized
+INFO - 2026-01-13 21:06:34 --> Upload Class Initialized
+INFO - 2026-01-13 21:06:34 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:06:34 --> Model Class Initialized
+INFO - 2026-01-13 21:06:34 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:06:34 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:06:34 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:06:34 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:06:34 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated E:\xampp\htdocs\GameVictoryAdmin\system\core\Output.php 457
+INFO - 2026-01-13 21:06:34 --> Final output sent to browser
+DEBUG - 2026-01-13 21:06:34 --> Total execution time: 0.0656
+INFO - 2026-01-13 16:36:41 --> Config Class Initialized
+INFO - 2026-01-13 16:36:41 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:36:41 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:36:41 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:36:41 --> URI Class Initialized
+INFO - 2026-01-13 16:36:41 --> Router Class Initialized
+INFO - 2026-01-13 16:36:41 --> Output Class Initialized
+INFO - 2026-01-13 16:36:41 --> Security Class Initialized
+DEBUG - 2026-01-13 16:36:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:36:41 --> Input Class Initialized
+INFO - 2026-01-13 16:36:41 --> Language Class Initialized
+INFO - 2026-01-13 16:36:41 --> Loader Class Initialized
+INFO - 2026-01-13 16:36:41 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:36:41 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:36:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:36:41 --> Pagination Class Initialized
+INFO - 2026-01-13 16:36:41 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:36:41 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:41 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:41 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:36:41 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:06:41 --> Controller Class Initialized
+INFO - 2026-01-13 21:06:41 --> Upload Class Initialized
+INFO - 2026-01-13 21:06:41 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:06:41 --> Model Class Initialized
+INFO - 2026-01-13 21:06:41 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:06:41 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:06:41 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:06:41 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:06:41 --> Severity: Warning --> Undefined variable $game_id E:\xampp\htdocs\GameVictoryAdmin\application\models\admin2020\Game_model.php 27
+INFO - 2026-01-13 21:06:41 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:06:41 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:06:41 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:06:41 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:06:41 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:06:41 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage_datatable_js.php
+INFO - 2026-01-13 21:06:41 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:06:41 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage.php
+INFO - 2026-01-13 21:06:41 --> Final output sent to browser
+DEBUG - 2026-01-13 21:06:41 --> Total execution time: 0.0898
+INFO - 2026-01-13 16:36:42 --> Config Class Initialized
+INFO - 2026-01-13 16:36:42 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:36:42 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:36:42 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:36:42 --> URI Class Initialized
+INFO - 2026-01-13 16:36:42 --> Router Class Initialized
+INFO - 2026-01-13 16:36:42 --> Output Class Initialized
+INFO - 2026-01-13 16:36:42 --> Security Class Initialized
+DEBUG - 2026-01-13 16:36:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:36:42 --> Input Class Initialized
+INFO - 2026-01-13 16:36:42 --> Language Class Initialized
+INFO - 2026-01-13 16:36:42 --> Loader Class Initialized
+INFO - 2026-01-13 16:36:42 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:36:42 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:36:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:36:42 --> Pagination Class Initialized
+INFO - 2026-01-13 16:36:42 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:36:42 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:42 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:36:42 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:36:42 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:06:42 --> Controller Class Initialized
+INFO - 2026-01-13 21:06:42 --> Upload Class Initialized
+INFO - 2026-01-13 21:06:42 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:06:42 --> Model Class Initialized
+INFO - 2026-01-13 21:06:42 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:06:42 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:06:42 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:06:42 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:06:42 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated E:\xampp\htdocs\GameVictoryAdmin\system\core\Output.php 457
+INFO - 2026-01-13 21:06:42 --> Final output sent to browser
+DEBUG - 2026-01-13 21:06:42 --> Total execution time: 0.1083
+INFO - 2026-01-13 16:37:10 --> Config Class Initialized
+INFO - 2026-01-13 16:37:10 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:37:10 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:37:10 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:37:10 --> URI Class Initialized
+INFO - 2026-01-13 16:37:10 --> Router Class Initialized
+INFO - 2026-01-13 16:37:10 --> Output Class Initialized
+INFO - 2026-01-13 16:37:10 --> Security Class Initialized
+DEBUG - 2026-01-13 16:37:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:37:10 --> Input Class Initialized
+INFO - 2026-01-13 16:37:10 --> Language Class Initialized
+INFO - 2026-01-13 16:37:10 --> Loader Class Initialized
+INFO - 2026-01-13 16:37:10 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:37:10 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:37:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:37:10 --> Pagination Class Initialized
+INFO - 2026-01-13 16:37:10 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:37:10 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:10 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:10 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:37:10 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:07:10 --> Controller Class Initialized
+INFO - 2026-01-13 21:07:10 --> Model Class Initialized
+INFO - 2026-01-13 21:07:10 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:07:10 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:07:10 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:07:10 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:22:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:22:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:22:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:22:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:22:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:22:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/dashboard.php
+INFO - 2026-01-13 21:22:10 --> Final output sent to browser
+DEBUG - 2026-01-13 21:22:10 --> Total execution time: 0.0796
+INFO - 2026-01-13 16:37:13 --> Config Class Initialized
+INFO - 2026-01-13 16:37:13 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:37:13 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:37:13 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:37:13 --> URI Class Initialized
+INFO - 2026-01-13 16:37:13 --> Router Class Initialized
+INFO - 2026-01-13 16:37:13 --> Output Class Initialized
+INFO - 2026-01-13 16:37:13 --> Security Class Initialized
+DEBUG - 2026-01-13 16:37:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:37:13 --> Input Class Initialized
+INFO - 2026-01-13 16:37:13 --> Language Class Initialized
+INFO - 2026-01-13 16:37:13 --> Loader Class Initialized
+INFO - 2026-01-13 16:37:13 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:37:13 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:37:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:37:13 --> Pagination Class Initialized
+INFO - 2026-01-13 16:37:13 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:37:13 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:13 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:13 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:37:13 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:07:13 --> Controller Class Initialized
+INFO - 2026-01-13 21:07:13 --> Model Class Initialized
+INFO - 2026-01-13 21:07:13 --> Upload Class Initialized
+INFO - 2026-01-13 21:07:13 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:07:13 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:07:13 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:07:13 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:07:13 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:07:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:07:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:07:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:07:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:07:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/member_manage_datatable_js.php
+INFO - 2026-01-13 21:07:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:07:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/member_manage.php
+INFO - 2026-01-13 21:07:13 --> Final output sent to browser
+DEBUG - 2026-01-13 21:07:13 --> Total execution time: 0.3360
+INFO - 2026-01-13 16:37:13 --> Config Class Initialized
+INFO - 2026-01-13 16:37:13 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:37:13 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:37:13 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:37:13 --> URI Class Initialized
+INFO - 2026-01-13 16:37:13 --> Router Class Initialized
+INFO - 2026-01-13 16:37:13 --> Output Class Initialized
+INFO - 2026-01-13 16:37:13 --> Security Class Initialized
+DEBUG - 2026-01-13 16:37:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:37:13 --> Input Class Initialized
+INFO - 2026-01-13 16:37:13 --> Language Class Initialized
+INFO - 2026-01-13 16:37:13 --> Loader Class Initialized
+INFO - 2026-01-13 16:37:13 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:37:13 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:37:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:37:13 --> Pagination Class Initialized
+INFO - 2026-01-13 16:37:13 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:37:13 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:13 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:13 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:37:13 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:07:13 --> Controller Class Initialized
+INFO - 2026-01-13 21:07:13 --> Model Class Initialized
+INFO - 2026-01-13 21:07:14 --> Upload Class Initialized
+INFO - 2026-01-13 21:07:14 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:07:14 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:07:14 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:07:14 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:07:14 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:07:14 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated E:\xampp\htdocs\GameVictoryAdmin\system\core\Output.php 457
+INFO - 2026-01-13 21:07:14 --> Final output sent to browser
+DEBUG - 2026-01-13 21:07:14 --> Total execution time: 0.1044
+INFO - 2026-01-13 16:37:18 --> Config Class Initialized
+INFO - 2026-01-13 16:37:18 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:37:18 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:37:18 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:37:18 --> URI Class Initialized
+INFO - 2026-01-13 16:37:18 --> Router Class Initialized
+INFO - 2026-01-13 16:37:18 --> Output Class Initialized
+INFO - 2026-01-13 16:37:18 --> Security Class Initialized
+DEBUG - 2026-01-13 16:37:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:37:18 --> Input Class Initialized
+INFO - 2026-01-13 16:37:18 --> Language Class Initialized
+INFO - 2026-01-13 16:37:18 --> Loader Class Initialized
+INFO - 2026-01-13 16:37:18 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:37:18 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:37:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:37:18 --> Pagination Class Initialized
+INFO - 2026-01-13 16:37:18 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:37:18 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:18 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:18 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:37:18 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:07:18 --> Controller Class Initialized
+INFO - 2026-01-13 21:07:18 --> Upload Class Initialized
+INFO - 2026-01-13 21:07:18 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:07:18 --> Model Class Initialized
+INFO - 2026-01-13 21:07:18 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:07:18 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:07:18 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:07:18 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:07:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:07:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:07:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:07:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:07:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/product_manage_datatable_js.php
+INFO - 2026-01-13 21:07:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:07:18 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/product_manage.php
+INFO - 2026-01-13 21:07:18 --> Final output sent to browser
+DEBUG - 2026-01-13 21:07:18 --> Total execution time: 0.3045
+INFO - 2026-01-13 16:37:18 --> Config Class Initialized
+INFO - 2026-01-13 16:37:18 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:37:18 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:37:18 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:37:18 --> URI Class Initialized
+INFO - 2026-01-13 16:37:18 --> Router Class Initialized
+INFO - 2026-01-13 16:37:18 --> Output Class Initialized
+INFO - 2026-01-13 16:37:18 --> Security Class Initialized
+DEBUG - 2026-01-13 16:37:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:37:18 --> Input Class Initialized
+INFO - 2026-01-13 16:37:18 --> Language Class Initialized
+INFO - 2026-01-13 16:37:18 --> Loader Class Initialized
+INFO - 2026-01-13 16:37:18 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:37:18 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:37:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:37:18 --> Pagination Class Initialized
+INFO - 2026-01-13 16:37:18 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:37:18 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:18 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:18 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:37:18 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:07:18 --> Controller Class Initialized
+INFO - 2026-01-13 21:07:18 --> Upload Class Initialized
+INFO - 2026-01-13 21:07:18 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:07:18 --> Model Class Initialized
+INFO - 2026-01-13 21:07:18 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:07:18 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:07:18 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:07:18 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:07:18 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated E:\xampp\htdocs\GameVictoryAdmin\system\core\Output.php 457
+INFO - 2026-01-13 21:07:18 --> Final output sent to browser
+DEBUG - 2026-01-13 21:07:18 --> Total execution time: 0.1070
+INFO - 2026-01-13 16:37:57 --> Config Class Initialized
+INFO - 2026-01-13 16:37:57 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:37:57 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:37:57 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:37:57 --> URI Class Initialized
+INFO - 2026-01-13 16:37:57 --> Router Class Initialized
+INFO - 2026-01-13 16:37:57 --> Output Class Initialized
+INFO - 2026-01-13 16:37:57 --> Security Class Initialized
+DEBUG - 2026-01-13 16:37:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:37:57 --> Input Class Initialized
+INFO - 2026-01-13 16:37:57 --> Language Class Initialized
+INFO - 2026-01-13 16:37:57 --> Loader Class Initialized
+INFO - 2026-01-13 16:37:57 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:37:57 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:37:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:37:57 --> Pagination Class Initialized
+INFO - 2026-01-13 16:37:57 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:37:57 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:57 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:57 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:37:57 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:07:57 --> Controller Class Initialized
+INFO - 2026-01-13 21:07:57 --> Upload Class Initialized
+INFO - 2026-01-13 21:07:57 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:07:57 --> Model Class Initialized
+INFO - 2026-01-13 21:07:57 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:07:57 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:07:57 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:07:57 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:07:57 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:07:57 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:07:57 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:07:57 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:07:57 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:07:57 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:07:57 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:07:57 --> Final output sent to browser
+DEBUG - 2026-01-13 21:07:57 --> Total execution time: 0.0831
+INFO - 2026-01-13 16:37:58 --> Config Class Initialized
+INFO - 2026-01-13 16:37:58 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:37:58 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:37:58 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:37:58 --> URI Class Initialized
+INFO - 2026-01-13 16:37:58 --> Router Class Initialized
+INFO - 2026-01-13 16:37:58 --> Output Class Initialized
+INFO - 2026-01-13 16:37:58 --> Security Class Initialized
+DEBUG - 2026-01-13 16:37:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:37:58 --> Input Class Initialized
+INFO - 2026-01-13 16:37:58 --> Language Class Initialized
+INFO - 2026-01-13 16:37:58 --> Loader Class Initialized
+INFO - 2026-01-13 16:37:58 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:37:58 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:37:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:37:58 --> Pagination Class Initialized
+INFO - 2026-01-13 16:37:58 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:37:58 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:58 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:58 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:37:58 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:07:58 --> Controller Class Initialized
+INFO - 2026-01-13 21:07:58 --> Upload Class Initialized
+INFO - 2026-01-13 21:07:58 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:07:58 --> Model Class Initialized
+INFO - 2026-01-13 21:07:58 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:07:58 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:07:58 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:07:58 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:07:58 --> Severity: Warning --> Undefined variable $game_id E:\xampp\htdocs\GameVictoryAdmin\application\models\admin2020\Game_model.php 27
+INFO - 2026-01-13 21:07:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:07:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:07:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:07:58 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:07:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:07:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage_datatable_js.php
+INFO - 2026-01-13 21:07:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:07:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage.php
+INFO - 2026-01-13 21:07:58 --> Final output sent to browser
+DEBUG - 2026-01-13 21:07:58 --> Total execution time: 0.0888
+INFO - 2026-01-13 16:37:59 --> Config Class Initialized
+INFO - 2026-01-13 16:37:59 --> Hooks Class Initialized
+DEBUG - 2026-01-13 16:37:59 --> UTF-8 Support Enabled
+INFO - 2026-01-13 16:37:59 --> Utf8 Class Initialized
+INFO - 2026-01-13 16:37:59 --> URI Class Initialized
+INFO - 2026-01-13 16:37:59 --> Router Class Initialized
+INFO - 2026-01-13 16:37:59 --> Output Class Initialized
+INFO - 2026-01-13 16:37:59 --> Security Class Initialized
+DEBUG - 2026-01-13 16:37:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 16:37:59 --> Input Class Initialized
+INFO - 2026-01-13 16:37:59 --> Language Class Initialized
+INFO - 2026-01-13 16:37:59 --> Loader Class Initialized
+INFO - 2026-01-13 16:37:59 --> Helper loaded: url_helper
+INFO - 2026-01-13 16:37:59 --> Database Driver Class Initialized
+INFO - 2026-01-13 16:37:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 16:37:59 --> Pagination Class Initialized
+INFO - 2026-01-13 16:37:59 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 16:37:59 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:59 --> Helper loaded: system_helper
+INFO - 2026-01-13 16:37:59 --> Helper loaded: form_helper
+INFO - 2026-01-13 16:37:59 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:07:59 --> Controller Class Initialized
+INFO - 2026-01-13 21:07:59 --> Upload Class Initialized
+INFO - 2026-01-13 21:07:59 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:07:59 --> Model Class Initialized
+INFO - 2026-01-13 21:07:59 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:07:59 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:07:59 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:07:59 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:07:59 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated E:\xampp\htdocs\GameVictoryAdmin\system\core\Output.php 457
+INFO - 2026-01-13 21:07:59 --> Final output sent to browser
+DEBUG - 2026-01-13 21:07:59 --> Total execution time: 0.0980
+INFO - 2026-01-13 17:12:28 --> Config Class Initialized
+INFO - 2026-01-13 17:12:28 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:12:28 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:12:28 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:12:28 --> URI Class Initialized
+INFO - 2026-01-13 17:12:28 --> Router Class Initialized
+INFO - 2026-01-13 17:12:28 --> Output Class Initialized
+INFO - 2026-01-13 17:12:28 --> Security Class Initialized
+DEBUG - 2026-01-13 17:12:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:12:28 --> Input Class Initialized
+INFO - 2026-01-13 17:12:28 --> Language Class Initialized
+INFO - 2026-01-13 17:12:28 --> Loader Class Initialized
+INFO - 2026-01-13 17:12:28 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:12:28 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:12:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:12:29 --> Pagination Class Initialized
+INFO - 2026-01-13 17:12:29 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:12:29 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:12:29 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:12:29 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:12:29 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:42:29 --> Controller Class Initialized
+INFO - 2026-01-13 21:42:29 --> Upload Class Initialized
+INFO - 2026-01-13 21:42:29 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:42:29 --> Model Class Initialized
+INFO - 2026-01-13 21:42:30 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:42:30 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:42:30 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:42:30 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:42:30 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:42:30 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:42:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:42:31 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:42:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:42:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:42:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:42:31 --> Final output sent to browser
+DEBUG - 2026-01-13 21:42:31 --> Total execution time: 3.3100
+INFO - 2026-01-13 17:12:35 --> Config Class Initialized
+INFO - 2026-01-13 17:12:35 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:12:35 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:12:35 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:12:35 --> URI Class Initialized
+INFO - 2026-01-13 17:12:35 --> Router Class Initialized
+INFO - 2026-01-13 17:12:35 --> Output Class Initialized
+INFO - 2026-01-13 17:12:35 --> Security Class Initialized
+DEBUG - 2026-01-13 17:12:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:12:35 --> Input Class Initialized
+INFO - 2026-01-13 17:12:35 --> Language Class Initialized
+INFO - 2026-01-13 17:12:35 --> Loader Class Initialized
+INFO - 2026-01-13 17:12:35 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:12:35 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:12:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:12:35 --> Pagination Class Initialized
+INFO - 2026-01-13 17:12:35 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:12:35 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:12:35 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:12:35 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:12:35 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:42:35 --> Controller Class Initialized
+INFO - 2026-01-13 21:42:35 --> Upload Class Initialized
+INFO - 2026-01-13 21:42:35 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:42:35 --> Model Class Initialized
+INFO - 2026-01-13 21:42:35 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:42:35 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:42:35 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:42:35 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:42:35 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:42:35 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:42:35 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:42:35 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:42:35 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:42:35 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:42:35 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:42:35 --> Final output sent to browser
+DEBUG - 2026-01-13 21:42:35 --> Total execution time: 0.1150
+INFO - 2026-01-13 17:12:36 --> Config Class Initialized
+INFO - 2026-01-13 17:12:36 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:12:36 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:12:36 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:12:36 --> URI Class Initialized
+INFO - 2026-01-13 17:12:36 --> Router Class Initialized
+INFO - 2026-01-13 17:12:36 --> Output Class Initialized
+INFO - 2026-01-13 17:12:36 --> Security Class Initialized
+DEBUG - 2026-01-13 17:12:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:12:36 --> Input Class Initialized
+INFO - 2026-01-13 17:12:36 --> Language Class Initialized
+INFO - 2026-01-13 17:12:36 --> Loader Class Initialized
+INFO - 2026-01-13 17:12:36 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:12:36 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:12:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:12:36 --> Pagination Class Initialized
+INFO - 2026-01-13 17:12:36 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:12:36 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:12:36 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:12:36 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:12:36 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:42:36 --> Controller Class Initialized
+INFO - 2026-01-13 21:42:36 --> Upload Class Initialized
+INFO - 2026-01-13 21:42:36 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:42:36 --> Model Class Initialized
+INFO - 2026-01-13 21:42:36 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:42:36 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:42:36 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:42:36 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:42:36 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:42:36 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:42:36 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:42:36 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:42:36 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:42:36 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:42:36 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:42:36 --> Final output sent to browser
+DEBUG - 2026-01-13 21:42:36 --> Total execution time: 0.0884
+INFO - 2026-01-13 17:15:25 --> Config Class Initialized
+INFO - 2026-01-13 17:15:25 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:15:25 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:15:25 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:15:25 --> URI Class Initialized
+INFO - 2026-01-13 17:15:25 --> Router Class Initialized
+INFO - 2026-01-13 17:15:25 --> Output Class Initialized
+INFO - 2026-01-13 17:15:25 --> Security Class Initialized
+DEBUG - 2026-01-13 17:15:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:15:25 --> Input Class Initialized
+INFO - 2026-01-13 17:15:25 --> Language Class Initialized
+INFO - 2026-01-13 17:15:25 --> Loader Class Initialized
+INFO - 2026-01-13 17:15:25 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:15:25 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:15:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:15:25 --> Pagination Class Initialized
+INFO - 2026-01-13 17:15:25 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:15:25 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:15:25 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:15:25 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:15:25 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:45:25 --> Controller Class Initialized
+INFO - 2026-01-13 21:45:25 --> Upload Class Initialized
+INFO - 2026-01-13 21:45:25 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:45:25 --> Model Class Initialized
+INFO - 2026-01-13 21:45:25 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:45:25 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:45:25 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:45:25 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:45:25 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:45:25 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:45:25 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:45:25 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:45:25 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:45:25 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:45:25 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:45:25 --> Final output sent to browser
+DEBUG - 2026-01-13 21:45:25 --> Total execution time: 0.0876
+INFO - 2026-01-13 17:15:37 --> Config Class Initialized
+INFO - 2026-01-13 17:15:37 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:15:37 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:15:37 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:15:37 --> URI Class Initialized
+INFO - 2026-01-13 17:15:37 --> Router Class Initialized
+INFO - 2026-01-13 17:15:37 --> Output Class Initialized
+INFO - 2026-01-13 17:15:37 --> Security Class Initialized
+DEBUG - 2026-01-13 17:15:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:15:37 --> Input Class Initialized
+INFO - 2026-01-13 17:15:37 --> Language Class Initialized
+INFO - 2026-01-13 17:15:37 --> Loader Class Initialized
+INFO - 2026-01-13 17:15:37 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:15:37 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:15:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:15:37 --> Pagination Class Initialized
+INFO - 2026-01-13 17:15:37 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:15:37 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:15:37 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:15:37 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:15:37 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:45:37 --> Controller Class Initialized
+INFO - 2026-01-13 21:45:37 --> Upload Class Initialized
+INFO - 2026-01-13 21:45:37 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:45:37 --> Model Class Initialized
+INFO - 2026-01-13 21:45:37 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:45:37 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:45:37 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:45:37 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:45:37 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:45:37 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:45:37 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:45:37 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:45:37 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:45:37 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:45:37 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:45:37 --> Final output sent to browser
+DEBUG - 2026-01-13 21:45:37 --> Total execution time: 0.1109
+INFO - 2026-01-13 17:16:08 --> Config Class Initialized
+INFO - 2026-01-13 17:16:08 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:08 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:08 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:08 --> URI Class Initialized
+INFO - 2026-01-13 17:16:08 --> Router Class Initialized
+INFO - 2026-01-13 17:16:08 --> Output Class Initialized
+INFO - 2026-01-13 17:16:08 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:08 --> Input Class Initialized
+INFO - 2026-01-13 17:16:08 --> Language Class Initialized
+INFO - 2026-01-13 17:16:08 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:08 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:08 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:08 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:08 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:08 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:08 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:08 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:08 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:08 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:09 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:09 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:09 --> Model Class Initialized
+INFO - 2026-01-13 21:46:09 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:09 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:09 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:09 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:46:09 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:46:09 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:46:09 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:46:09 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:46:09 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:46:09 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:46:09 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:46:09 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:09 --> Total execution time: 0.0796
+INFO - 2026-01-13 17:16:09 --> Config Class Initialized
+INFO - 2026-01-13 17:16:09 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:09 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:09 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:09 --> URI Class Initialized
+INFO - 2026-01-13 17:16:09 --> Router Class Initialized
+INFO - 2026-01-13 17:16:09 --> Output Class Initialized
+INFO - 2026-01-13 17:16:09 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:09 --> Input Class Initialized
+INFO - 2026-01-13 17:16:09 --> Language Class Initialized
+INFO - 2026-01-13 17:16:09 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:09 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:09 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:10 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:10 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:10 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:10 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:10 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:10 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:10 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:10 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:10 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:10 --> Model Class Initialized
+INFO - 2026-01-13 21:46:10 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:10 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:10 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:10 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:46:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:46:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:46:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:46:10 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:46:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:46:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:46:10 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:46:10 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:10 --> Total execution time: 0.0858
+INFO - 2026-01-13 17:16:11 --> Config Class Initialized
+INFO - 2026-01-13 17:16:11 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:11 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:11 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:11 --> URI Class Initialized
+INFO - 2026-01-13 17:16:11 --> Router Class Initialized
+INFO - 2026-01-13 17:16:11 --> Output Class Initialized
+INFO - 2026-01-13 17:16:11 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:11 --> Input Class Initialized
+INFO - 2026-01-13 17:16:11 --> Language Class Initialized
+INFO - 2026-01-13 17:16:11 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:11 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:11 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:11 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:11 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:11 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:11 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:11 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:11 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:11 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:11 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:11 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:11 --> Model Class Initialized
+INFO - 2026-01-13 21:46:11 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:11 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:11 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:11 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:46:11 --> Severity: Warning --> Undefined variable $game_id E:\xampp\htdocs\GameVictoryAdmin\application\models\admin2020\Game_model.php 27
+INFO - 2026-01-13 21:46:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:46:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:46:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:46:11 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:46:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:46:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage_datatable_js.php
+INFO - 2026-01-13 21:46:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:46:11 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage.php
+INFO - 2026-01-13 21:46:11 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:11 --> Total execution time: 0.1120
+INFO - 2026-01-13 17:16:11 --> Config Class Initialized
+INFO - 2026-01-13 17:16:11 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:11 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:11 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:11 --> URI Class Initialized
+INFO - 2026-01-13 17:16:11 --> Router Class Initialized
+INFO - 2026-01-13 17:16:11 --> Output Class Initialized
+INFO - 2026-01-13 17:16:11 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:11 --> Input Class Initialized
+INFO - 2026-01-13 17:16:11 --> Language Class Initialized
+INFO - 2026-01-13 17:16:11 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:11 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:11 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:11 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:11 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:11 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:11 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:11 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:11 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:11 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:11 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:11 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:11 --> Model Class Initialized
+INFO - 2026-01-13 21:46:11 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:11 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:11 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:11 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:46:11 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated E:\xampp\htdocs\GameVictoryAdmin\system\core\Output.php 457
+INFO - 2026-01-13 21:46:11 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:11 --> Total execution time: 0.0913
+INFO - 2026-01-13 17:16:13 --> Config Class Initialized
+INFO - 2026-01-13 17:16:13 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:13 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:13 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:13 --> URI Class Initialized
+INFO - 2026-01-13 17:16:13 --> Router Class Initialized
+INFO - 2026-01-13 17:16:13 --> Output Class Initialized
+INFO - 2026-01-13 17:16:13 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:13 --> Input Class Initialized
+INFO - 2026-01-13 17:16:13 --> Language Class Initialized
+INFO - 2026-01-13 17:16:13 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:13 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:13 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:13 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:13 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:13 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:13 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:13 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:13 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:13 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:13 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:13 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:13 --> Model Class Initialized
+INFO - 2026-01-13 21:46:13 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:13 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:13 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:13 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:46:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:46:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:46:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:46:13 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:46:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:46:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:46:13 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:46:13 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:13 --> Total execution time: 0.0673
+INFO - 2026-01-13 17:16:52 --> Config Class Initialized
+INFO - 2026-01-13 17:16:52 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:52 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:52 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:52 --> URI Class Initialized
+INFO - 2026-01-13 17:16:52 --> Router Class Initialized
+INFO - 2026-01-13 17:16:52 --> Output Class Initialized
+INFO - 2026-01-13 17:16:52 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:52 --> Input Class Initialized
+INFO - 2026-01-13 17:16:52 --> Language Class Initialized
+INFO - 2026-01-13 17:16:52 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:52 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:52 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:52 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:52 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:52 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:52 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:52 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:52 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:52 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:52 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:52 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:52 --> Model Class Initialized
+INFO - 2026-01-13 21:46:52 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:52 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:52 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:52 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:46:52 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:46:52 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:46:52 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+INFO - 2026-01-13 21:46:52 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:46:52 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/match_manage_datatable_js.php
+INFO - 2026-01-13 21:46:52 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:46:52 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/match_manage.php
+INFO - 2026-01-13 21:46:52 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:52 --> Total execution time: 0.0822
+INFO - 2026-01-13 17:16:52 --> Config Class Initialized
+INFO - 2026-01-13 17:16:52 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:52 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:52 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:52 --> URI Class Initialized
+INFO - 2026-01-13 17:16:52 --> Router Class Initialized
+INFO - 2026-01-13 17:16:52 --> Output Class Initialized
+INFO - 2026-01-13 17:16:52 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:52 --> Input Class Initialized
+INFO - 2026-01-13 17:16:52 --> Language Class Initialized
+INFO - 2026-01-13 17:16:52 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:52 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:52 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:52 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:52 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:52 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:52 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:52 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:52 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:52 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:52 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:52 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:52 --> Model Class Initialized
+INFO - 2026-01-13 21:46:52 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:52 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:52 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:52 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:46:52 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated E:\xampp\htdocs\GameVictoryAdmin\system\core\Output.php 457
+INFO - 2026-01-13 21:46:52 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:52 --> Total execution time: 0.0729
+INFO - 2026-01-13 17:16:53 --> Config Class Initialized
+INFO - 2026-01-13 17:16:53 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:53 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:53 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:53 --> URI Class Initialized
+INFO - 2026-01-13 17:16:53 --> Router Class Initialized
+INFO - 2026-01-13 17:16:53 --> Output Class Initialized
+INFO - 2026-01-13 17:16:53 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:53 --> Input Class Initialized
+INFO - 2026-01-13 17:16:53 --> Language Class Initialized
+INFO - 2026-01-13 17:16:53 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:53 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:53 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:53 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:53 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:53 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:53 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:53 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:53 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:53 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:53 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:53 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:53 --> Model Class Initialized
+INFO - 2026-01-13 21:46:53 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:53 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:53 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:53 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:46:53 --> Severity: Warning --> Undefined variable $game_id E:\xampp\htdocs\GameVictoryAdmin\application\models\admin2020\Game_model.php 27
+INFO - 2026-01-13 21:46:53 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:46:53 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:46:53 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:46:53 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:46:53 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:46:53 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage_datatable_js.php
+INFO - 2026-01-13 21:46:53 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:46:53 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/game_manage.php
+INFO - 2026-01-13 21:46:53 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:53 --> Total execution time: 0.1063
+INFO - 2026-01-13 17:16:54 --> Config Class Initialized
+INFO - 2026-01-13 17:16:54 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:54 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:54 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:54 --> URI Class Initialized
+INFO - 2026-01-13 17:16:54 --> Router Class Initialized
+INFO - 2026-01-13 17:16:54 --> Output Class Initialized
+INFO - 2026-01-13 17:16:54 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:54 --> Input Class Initialized
+INFO - 2026-01-13 17:16:54 --> Language Class Initialized
+INFO - 2026-01-13 17:16:54 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:54 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:54 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:54 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:54 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:54 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:54 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:54 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:54 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:54 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:54 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:54 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:54 --> Model Class Initialized
+INFO - 2026-01-13 21:46:54 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:54 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:54 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:54 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:46:54 --> Severity: 8192 --> str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated E:\xampp\htdocs\GameVictoryAdmin\system\core\Output.php 457
+INFO - 2026-01-13 21:46:54 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:54 --> Total execution time: 0.0795
+INFO - 2026-01-13 17:16:58 --> Config Class Initialized
+INFO - 2026-01-13 17:16:58 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:16:58 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:16:58 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:16:58 --> URI Class Initialized
+INFO - 2026-01-13 17:16:58 --> Router Class Initialized
+INFO - 2026-01-13 17:16:58 --> Output Class Initialized
+INFO - 2026-01-13 17:16:58 --> Security Class Initialized
+DEBUG - 2026-01-13 17:16:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:16:58 --> Input Class Initialized
+INFO - 2026-01-13 17:16:58 --> Language Class Initialized
+INFO - 2026-01-13 17:16:58 --> Loader Class Initialized
+INFO - 2026-01-13 17:16:58 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:16:58 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:16:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:16:58 --> Pagination Class Initialized
+INFO - 2026-01-13 17:16:58 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:16:58 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:58 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:16:58 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:16:58 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:46:58 --> Controller Class Initialized
+INFO - 2026-01-13 21:46:58 --> Upload Class Initialized
+INFO - 2026-01-13 21:46:58 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:46:58 --> Model Class Initialized
+INFO - 2026-01-13 21:46:58 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:46:58 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:46:58 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:46:58 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:46:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:46:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:46:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:46:58 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:46:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:46:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:46:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:46:58 --> Final output sent to browser
+DEBUG - 2026-01-13 21:46:58 --> Total execution time: 0.0646
+INFO - 2026-01-13 17:17:23 --> Config Class Initialized
+INFO - 2026-01-13 17:17:23 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:17:23 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:17:23 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:17:23 --> URI Class Initialized
+INFO - 2026-01-13 17:17:23 --> Router Class Initialized
+INFO - 2026-01-13 17:17:23 --> Output Class Initialized
+INFO - 2026-01-13 17:17:23 --> Security Class Initialized
+DEBUG - 2026-01-13 17:17:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:17:23 --> Input Class Initialized
+INFO - 2026-01-13 17:17:23 --> Language Class Initialized
+INFO - 2026-01-13 17:17:23 --> Loader Class Initialized
+INFO - 2026-01-13 17:17:23 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:17:23 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:17:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:17:23 --> Pagination Class Initialized
+INFO - 2026-01-13 17:17:23 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:17:23 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:17:23 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:17:23 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:17:23 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:47:23 --> Controller Class Initialized
+INFO - 2026-01-13 21:47:23 --> Upload Class Initialized
+INFO - 2026-01-13 21:47:23 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:47:23 --> Model Class Initialized
+INFO - 2026-01-13 21:47:23 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:47:23 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:47:23 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:47:23 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:47:23 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:47:23 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:47:23 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:47:23 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:47:23 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:47:23 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:47:23 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:47:23 --> Final output sent to browser
+DEBUG - 2026-01-13 21:47:23 --> Total execution time: 0.0862
+INFO - 2026-01-13 17:17:24 --> Config Class Initialized
+INFO - 2026-01-13 17:17:24 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:17:24 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:17:24 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:17:24 --> URI Class Initialized
+INFO - 2026-01-13 17:17:24 --> Router Class Initialized
+INFO - 2026-01-13 17:17:24 --> Output Class Initialized
+INFO - 2026-01-13 17:17:24 --> Security Class Initialized
+DEBUG - 2026-01-13 17:17:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:17:24 --> Input Class Initialized
+INFO - 2026-01-13 17:17:24 --> Language Class Initialized
+INFO - 2026-01-13 17:17:24 --> Loader Class Initialized
+INFO - 2026-01-13 17:17:24 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:17:24 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:17:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:17:24 --> Pagination Class Initialized
+INFO - 2026-01-13 17:17:24 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:17:24 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:17:24 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:17:24 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:17:24 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:47:24 --> Controller Class Initialized
+INFO - 2026-01-13 21:47:24 --> Upload Class Initialized
+INFO - 2026-01-13 21:47:24 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:47:24 --> Model Class Initialized
+INFO - 2026-01-13 21:47:24 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:47:24 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:47:24 --> Final output sent to browser
+DEBUG - 2026-01-13 21:47:24 --> Total execution time: 0.0930
+INFO - 2026-01-13 17:17:24 --> Config Class Initialized
+INFO - 2026-01-13 17:17:24 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:17:24 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:17:24 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:17:24 --> URI Class Initialized
+INFO - 2026-01-13 17:17:24 --> Router Class Initialized
+INFO - 2026-01-13 17:17:24 --> Output Class Initialized
+INFO - 2026-01-13 17:17:24 --> Security Class Initialized
+DEBUG - 2026-01-13 17:17:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:17:24 --> Input Class Initialized
+INFO - 2026-01-13 17:17:24 --> Language Class Initialized
+INFO - 2026-01-13 17:17:24 --> Loader Class Initialized
+INFO - 2026-01-13 17:17:24 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:17:24 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:17:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:17:24 --> Pagination Class Initialized
+INFO - 2026-01-13 17:17:24 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:17:24 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:17:24 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:17:24 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:17:24 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:47:24 --> Controller Class Initialized
+INFO - 2026-01-13 21:47:24 --> Upload Class Initialized
+INFO - 2026-01-13 21:47:24 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:47:24 --> Model Class Initialized
+INFO - 2026-01-13 21:47:24 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:47:24 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:47:24 --> Final output sent to browser
+DEBUG - 2026-01-13 21:47:24 --> Total execution time: 0.0940
+INFO - 2026-01-13 17:17:24 --> Config Class Initialized
+INFO - 2026-01-13 17:17:24 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:17:24 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:17:24 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:17:24 --> URI Class Initialized
+INFO - 2026-01-13 17:17:24 --> Router Class Initialized
+INFO - 2026-01-13 17:17:24 --> Output Class Initialized
+INFO - 2026-01-13 17:17:24 --> Security Class Initialized
+DEBUG - 2026-01-13 17:17:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:17:24 --> Input Class Initialized
+INFO - 2026-01-13 17:17:24 --> Language Class Initialized
+INFO - 2026-01-13 17:17:24 --> Loader Class Initialized
+INFO - 2026-01-13 17:17:24 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:17:24 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:17:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:17:24 --> Pagination Class Initialized
+INFO - 2026-01-13 17:17:24 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:17:24 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:17:24 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:17:24 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:17:24 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:47:24 --> Controller Class Initialized
+INFO - 2026-01-13 21:47:24 --> Upload Class Initialized
+INFO - 2026-01-13 21:47:24 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:47:24 --> Model Class Initialized
+INFO - 2026-01-13 21:47:24 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:47:24 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:47:24 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:47:24 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:47:24 --> Final output sent to browser
+DEBUG - 2026-01-13 21:47:24 --> Total execution time: 0.0808
+INFO - 2026-01-13 17:20:57 --> Config Class Initialized
+INFO - 2026-01-13 17:20:57 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:20:57 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:20:57 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:20:57 --> URI Class Initialized
+INFO - 2026-01-13 17:20:57 --> Router Class Initialized
+INFO - 2026-01-13 17:20:57 --> Output Class Initialized
+INFO - 2026-01-13 17:20:57 --> Security Class Initialized
+DEBUG - 2026-01-13 17:20:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:20:57 --> Input Class Initialized
+INFO - 2026-01-13 17:20:57 --> Language Class Initialized
+INFO - 2026-01-13 17:20:57 --> Loader Class Initialized
+INFO - 2026-01-13 17:20:57 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:20:57 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:20:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:20:57 --> Pagination Class Initialized
+INFO - 2026-01-13 17:20:57 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:20:57 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:20:57 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:20:57 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:20:57 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:50:57 --> Controller Class Initialized
+INFO - 2026-01-13 21:50:58 --> Upload Class Initialized
+INFO - 2026-01-13 21:50:58 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:50:58 --> Model Class Initialized
+INFO - 2026-01-13 21:50:58 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:50:58 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:50:58 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:50:58 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:50:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:50:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:50:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:50:58 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:50:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:50:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:50:58 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:50:58 --> Final output sent to browser
+DEBUG - 2026-01-13 21:50:58 --> Total execution time: 0.1004
+INFO - 2026-01-13 17:20:59 --> Config Class Initialized
+INFO - 2026-01-13 17:20:59 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:20:59 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:20:59 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:20:59 --> URI Class Initialized
+INFO - 2026-01-13 17:20:59 --> Router Class Initialized
+INFO - 2026-01-13 17:20:59 --> Output Class Initialized
+INFO - 2026-01-13 17:20:59 --> Security Class Initialized
+DEBUG - 2026-01-13 17:20:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:20:59 --> Input Class Initialized
+INFO - 2026-01-13 17:20:59 --> Language Class Initialized
+INFO - 2026-01-13 17:20:59 --> Loader Class Initialized
+INFO - 2026-01-13 17:20:59 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:20:59 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:20:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:20:59 --> Pagination Class Initialized
+INFO - 2026-01-13 17:20:59 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:20:59 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:20:59 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:20:59 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:20:59 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:50:59 --> Controller Class Initialized
+INFO - 2026-01-13 21:50:59 --> Upload Class Initialized
+INFO - 2026-01-13 21:50:59 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:50:59 --> Model Class Initialized
+INFO - 2026-01-13 21:50:59 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:50:59 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:50:59 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:50:59 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:50:59 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:50:59 --> Final output sent to browser
+DEBUG - 2026-01-13 21:50:59 --> Total execution time: 0.0930
+INFO - 2026-01-13 17:20:59 --> Config Class Initialized
+INFO - 2026-01-13 17:20:59 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:20:59 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:20:59 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:20:59 --> URI Class Initialized
+INFO - 2026-01-13 17:20:59 --> Router Class Initialized
+INFO - 2026-01-13 17:20:59 --> Output Class Initialized
+INFO - 2026-01-13 17:20:59 --> Security Class Initialized
+DEBUG - 2026-01-13 17:20:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:20:59 --> Input Class Initialized
+INFO - 2026-01-13 17:20:59 --> Language Class Initialized
+INFO - 2026-01-13 17:20:59 --> Loader Class Initialized
+INFO - 2026-01-13 17:20:59 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:20:59 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:20:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:20:59 --> Pagination Class Initialized
+INFO - 2026-01-13 17:20:59 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:20:59 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:20:59 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:20:59 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:20:59 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:50:59 --> Controller Class Initialized
+INFO - 2026-01-13 21:50:59 --> Upload Class Initialized
+INFO - 2026-01-13 21:50:59 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:50:59 --> Model Class Initialized
+INFO - 2026-01-13 21:50:59 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:50:59 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:50:59 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:50:59 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:50:59 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:50:59 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:50:59 --> Final output sent to browser
+DEBUG - 2026-01-13 21:50:59 --> Total execution time: 0.0707
+INFO - 2026-01-13 17:21:31 --> Config Class Initialized
+INFO - 2026-01-13 17:21:31 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:21:31 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:21:31 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:21:31 --> URI Class Initialized
+INFO - 2026-01-13 17:21:31 --> Router Class Initialized
+INFO - 2026-01-13 17:21:31 --> Output Class Initialized
+INFO - 2026-01-13 17:21:31 --> Security Class Initialized
+DEBUG - 2026-01-13 17:21:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:21:31 --> Input Class Initialized
+INFO - 2026-01-13 17:21:31 --> Language Class Initialized
+INFO - 2026-01-13 17:21:31 --> Loader Class Initialized
+INFO - 2026-01-13 17:21:31 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:21:31 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:21:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:21:31 --> Pagination Class Initialized
+INFO - 2026-01-13 17:21:31 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:21:31 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:21:31 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:21:31 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:21:31 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:51:31 --> Controller Class Initialized
+INFO - 2026-01-13 21:51:31 --> Upload Class Initialized
+INFO - 2026-01-13 21:51:31 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:51:31 --> Model Class Initialized
+INFO - 2026-01-13 21:51:31 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:51:31 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:51:31 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:51:31 --> Language file loaded: language/english/validation_lang.php
+INFO - 2026-01-13 21:51:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header.php
+INFO - 2026-01-13 21:51:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/header_body.php
+INFO - 2026-01-13 21:51:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/sidebar.php
+ERROR - 2026-01-13 21:51:31 --> Could not find the language line "text_game_banned"
+INFO - 2026-01-13 21:51:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer_body.php
+INFO - 2026-01-13 21:51:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage_datatable_js.php
+INFO - 2026-01-13 21:51:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/footer.php
+INFO - 2026-01-13 21:51:31 --> File loaded: E:\xampp\htdocs\GameVictoryAdmin\application\views\admin2020/home_game_manage.php
+INFO - 2026-01-13 21:51:31 --> Final output sent to browser
+DEBUG - 2026-01-13 21:51:31 --> Total execution time: 0.0803
+INFO - 2026-01-13 17:21:31 --> Config Class Initialized
+INFO - 2026-01-13 17:21:31 --> Hooks Class Initialized
+DEBUG - 2026-01-13 17:21:31 --> UTF-8 Support Enabled
+INFO - 2026-01-13 17:21:31 --> Utf8 Class Initialized
+INFO - 2026-01-13 17:21:31 --> URI Class Initialized
+INFO - 2026-01-13 17:21:31 --> Router Class Initialized
+INFO - 2026-01-13 17:21:31 --> Output Class Initialized
+INFO - 2026-01-13 17:21:31 --> Security Class Initialized
+DEBUG - 2026-01-13 17:21:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2026-01-13 17:21:31 --> Input Class Initialized
+INFO - 2026-01-13 17:21:31 --> Language Class Initialized
+INFO - 2026-01-13 17:21:31 --> Loader Class Initialized
+INFO - 2026-01-13 17:21:31 --> Helper loaded: url_helper
+INFO - 2026-01-13 17:21:31 --> Database Driver Class Initialized
+INFO - 2026-01-13 17:21:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2026-01-13 17:21:31 --> Pagination Class Initialized
+INFO - 2026-01-13 17:21:31 --> Session: Class initialized using 'files' driver.
+INFO - 2026-01-13 17:21:31 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:21:31 --> Helper loaded: system_helper
+INFO - 2026-01-13 17:21:31 --> Helper loaded: form_helper
+INFO - 2026-01-13 17:21:31 --> Form Validation Class Initialized
+INFO - 2026-01-13 21:51:31 --> Controller Class Initialized
+INFO - 2026-01-13 21:51:31 --> Upload Class Initialized
+INFO - 2026-01-13 21:51:31 --> Helper loaded: file_helper
+INFO - 2026-01-13 21:51:31 --> Model Class Initialized
+INFO - 2026-01-13 21:51:31 --> Helper loaded: language_helper
+INFO - 2026-01-13 21:51:31 --> Language file loaded: language/english/information_lang.php
+INFO - 2026-01-13 21:51:31 --> Language file loaded: language/english/alert_lang.php
+INFO - 2026-01-13 21:51:31 --> Language file loaded: language/english/validation_lang.php
+ERROR - 2026-01-13 21:51:31 --> Severity: error --> Exception: Unknown column 'date_created' in 'order clause' E:\xampp\htdocs\GameVictoryAdmin\application\controllers\admin2020\Home_game.php 96

@@ -39,6 +39,10 @@
     <script src="<?php echo $this->js; ?>game.js" type="text/javascript"></script>
     <?php $this->load->view($this->path_to_view_admin . 'game_manage_datatable_js'); ?>    
 <?php } ?>
+<?php if (isset($home_game)) { ?>
+    <script src="<?php echo $this->js; ?>game.js" type="text/javascript"></script>
+    <?php $this->load->view($this->path_to_view_admin . 'home_game_manage_datatable_js'); ?>    
+<?php } ?>
 <?php if (isset($courier)) { ?>
     <script src="<?php echo $this->js; ?>courier.js" type="text/javascript"></script>
 

@@ -8,6 +8,8 @@ class Home_game_model extends CI_Model {
         $this->table_game_map = 'game_map';
         $this->img_size_array = array(100 => 100, 1000 => 500,350 =>350,500=>500);
         $this->logo_size_array = array(100 => 100 , 40=>40 ,200=>200);
+        $this->game_image = 'assets/uploads/home_game/';
+        $this->game_logo_image = 'assets/uploads/home_game_logo/';
 //        $this->column_headers = array(
 //            'Game Name' => '',
 //            'Image' => '',
