@@ -91,7 +91,7 @@ class Home_game extends CI_Controller {
         if (isset($requestData['order'][0]['column'])) {
             $sql .= " ORDER BY " . $columns[$requestData['order'][0]['column']] . "   " . $requestData['order'][0]['dir'] . "  LIMIT " . $requestData['start'] . " ," . $requestData['length'] . "   ";
         } else {
-            $sql .= " ORDER BY `date_created` DESC LIMIT " . $requestData['start'] . " ," . $requestData['length'];
+            $sql .= " ORDER BY `game_id` DESC LIMIT " . $requestData['start'] . " ," . $requestData['length'];
         }
         $query = mysqli_query($this->con, $sql);
         $data = array();
