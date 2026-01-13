@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gameaura-92518",
+  "private_key_id": "c1d53ae78ac49b6d01a9eaba2ae6239591d9b9c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCournzG0wzJezC\n4fYvFszw3VOWJ8s5Mnwy0BswHOJAoOQ/olN1mlXGLv/Ptcr5r3hrywYizWeZWfLZ\nVjdLvYyvwG6U+0frnFMdzp7EY3SVNgGKD6s403sWH3PFkfIt0g2PAEV0BEVJLpJm\nPHzmXe3chixOr6n/34lUsUY9es9gZ4gY5ctj2iXayg7cDAWZisvtqKGcKyqd7a6h\nugOPcSg1RrK2UKVRcmnudquORQPTj1GjdzWAeg3ZfRKqp74UIkUF3VGHMZsqbfQR\n1HuVadA4J2Qv/piVwZFokBqtIon/DxupbwNWI+WJW+l5xxJy89PMH/iwc9UI3WzV\nWy7NWNPrAgMBAAECggEACRWYmmKvXRefIjT5RLrFCPjZnb2BvxAdSL0UoagEdHdV\nIqnyNWQ8VwHDyyKeDYhpguA48dm+SK7jmNj//Cd18iZ5rbLDwgc2IGY1/RvftILm\nXVEPpm0YdO33lT0Q3W+wRDE/DAqI0nJb9n4uOVb4TgW5T/k8PWcDJViwD/JTRPzn\njH+UyctfeRgIqh/cz/7IDPxJY1Ez8EPpmJR/yYd4bgOjJZEfDM/iuLdR1R+nPsFG\nn0v33eBhX9zn5S6KNIuw9clErh1CKn/Q9yNANVO5Ly+d8gXSEJSij5EejKNCCLyP\nPHW4BwO49Ap9oE8NIin7gD9PJSlVdviI8WsT27tFuQKBgQDiSGbDoXTqPJD923Mg\nekIFVmSqneVIjGT2c17SCZ9KAvyZSJpZi2OgUSUbe9w725I/yg7RR7ivP+z+tVh6\n8IMxW36hnl6BaiRTa2Vtum1Cp1uZ3Z5ooCoA3DBrJKwdxR3FHjsHkebTPUP/3ODk\nR6yUY5BfZ7eqOx1beC2u4dD3OQKBgQC+42L319vx6FWYzu7yQ7LX8p7PJ5W1RRfW\np0srR/yaps2f45b7NZx6tO5qtjJXHt/8OTTLjBBAb9M0yB1INip8NvWPxwURkgAr\nzvA+iD7v8+qm1Wv4gB2hcDXjIp0LVVxRbWx3V5Ld2/feYcGeSF0AWBGxQ8RIrE3E\nrgkYQckgQwKBgQCArxfx7SHmC6eRFnm0YJKnImiBNuYridvo49dqrxotJuGr8kQE\n5GY1x6/In3mxeL8FE821aoo2763BdDPrRlf1e8jZ9IxeIJSj9BFsg3abTz2ilQv/\nCAabEp1ecS6Ih47UiMqdFXYlb1P6cAxdBf25LZ3vA7bJUnDxkbi5GaaS0QKBgDMe\nFUylg4K+Yt2u3JIHywbFM/3pbc/DFuUmm5yVhHGtpXbhrXbMHoFFnmr5K3XlELos\nX5T6hweaaobB6AWEa9Ajr5K3CwZvgJg6rF8ygRgky3utv2ImfMjUkbmndUKpszUj\nBl7XFr9OvovQxdarLix/aQ19Rjzn11OJ/2l9hGydAoGAAXexvOzbA5RNyRb9HZns\nehc90yAlDD2f6bZWqOHUCHEb8wp2u6m3ORs5xlhHVC5Mr4DY63rWmYciPveGuh4T\nJLCSw+3CpxzWuo6+saWG9DEDV7rPZQVdmyDbg267X7VV1S5U9UY8McUFMSnDgkqc\nYGHxHGMgZCV7X9Id1Bd/oqE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@gameaura-92518.iam.gserviceaccount.com",
+  "client_id": "117965989499344365234",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40gameaura-92518.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
